@@ -1,0 +1,101 @@
+Наименование,Цена,Кол-во,Категория,Валюта,Поставщик,Артикул
+Ноутбук Dell XPS 15,1200,5,Электроника,USD,TechSupply,DL-XPS-001
+  iPhone 14 Pro  ,999.00,12,Смартфоны ,usd,AppleStore,IP-14P-256
+samsung galaxy s23,850,0,смартфоны,USD,SamsungKZ,SG-S23-128
+Наушники Sony WH-1000XM5,,8,Аудио,USD,SonyShop,SN-WH1000
+Клавиатура Logitech MX Keys,120.50,25,Периферия,USD,LogiWorld,LG-MXK-01
+Монитор LG 27UL850,350,3,Мониторы,USD,LGDistrib,LG-27UL-B
+мышь logitech mx master 3,95,30,,usd,LogiWorld,LG-MXM-03
+Зарядное устройство Apple 20W,15.99,100,Аксессуары,USD,AppleStore,AP-CHR-20W
+SSD Samsung 970 EVO 1TB,89.90,50,Накопители,USD,SamsungKZ,SSD-970-1T
+Веб-камера Logitech C920,79,0,Периферия,USD,LogiWorld,LG-C920
+USB-хаб Ugreen 7-в-1,,15,Аксессуары,,UgreenKZ,UG-HUB-7
+Видеокарта RTX 4080,1199.00,2,Компоненты,USD,NvidiaShop,NV-4080-16
+Ноутбук Dell XPS 15,1200,5,Электроника,USD,TechSupply,DL-XPS-001
+Процессор Intel Core i9-13900K,589,7,Компоненты,USD,IntelShop,IN-I9-13K
+Материнская плата ASUS ROG,320.00,,Компоненты,USD,AsusKZ,AS-ROG-Z7
+ ,45,20,Аксессуары,USD,NoName,NN-001
+Смартфон Xiaomi 13 Pro,750,9,Смартфоны,USD,XiaomiKZ,XM-13P-256
+Планшет iPad Air 5,599,6,Планшеты,usd,AppleStore,AP-IPA5-64
+Наушники AirPods Pro 2,249,18,Аудио,USD,AppleStore,AP-APP2
+принтер hp laserjet pro,210.00,4,Оргтехника,USD,HPDistrib,HP-LJ-P
+Сканер Epson WorkForce,185,0,Оргтехника,USD,EpsonKZ,EP-WF-001
+МФУ Canon PIXMA,165.50,11,Оргтехника,,CanonShop,CN-PIX-G
+Роутер TP-Link Archer AX73,120,22,Сетевое оборудование,USD,TPLinkKZ,TP-AX73
+Коммутатор Cisco SG350,450.00,1,Сетевое оборудование,USD,CiscoShop,CS-SG350
+NAS Synology DS923+,699,2,Накопители,USD,SynologyKZ,SY-DS923
+Жёсткий диск WD Red 4TB,85,35,Накопители,USD,WDShop,WD-RED-4T
+Флеш-накопитель Samsung 256GB,18.90,200,Аксессуары,USD,SamsungKZ,SG-USB-256
+Монитор Dell UltraSharp 32,780,уточняется,Мониторы,USD,DellShop,DL-US32-4K
+Кабель HDMI 2.1 2м,12.50,150,Аксессуары,USD,CableKZ,CB-HDMI-2M
+Удлинитель сетевой 5 розеток,8.99,80,Аксессуары,USD,PowerKZ,PW-EXT-5
+iPhone 14 Pro,999.00,12,Смартфоны,USD,AppleStore,IP-14P-256
+Смартфон Samsung Galaxy S23,850,15,Смартфоны,USD,SamsungKZ,SG-S23-128
+Ноутбук HP Pavilion 15,650,8,Электроника,USD,HPDistrib,HP-PAV-15
+Ноутбук Lenovo IdeaPad 5,520,10,Электроника,usd,LenovoKZ,LN-IP5-512
+Клавиатура механическая Keychron K2,89,40,Периферия,USD,KeychronKZ,KC-K2-RGB
+Мышь игровая Razer DeathAdder,55.00,60,Периферия,USD,RazerShop,RZ-DA-V3
+Коврик для мыши XL SteelSeries,29,45,Периферия,USD,SteelKZ,SS-QCK-XL
+Кресло компьютерное Herman Miller,,1,Мебель,USD,OfficePlus,HM-AER-B
+Стол для ноутбука складной,35.50,25,Мебель,USD,OfficePlus,OF-DSK-FL
+Лампа настольная BenQ e-Reading,79.99,12,Освещение,USD,BenQShop,BQ-EL-B
+null,null,null,null,null,null,null
+Монитор Samsung Odyssey G5,299,7,Мониторы,USD,SamsungKZ,SG-OG5-27
+Веб-камера Razer Kiyo Pro,149,5,Периферия,USD,RazerShop,RZ-KYO-P
+Микрофон Blue Yeti,129.00,8,Аудио,USD,BlueShop,BL-YET-BLK
+Колонки Logitech Z623,99.50,14,Аудио,usd,LogiWorld,LG-Z623
+Усилитель FiiO K5 Pro,149,3,Аудио,USD,FiiOShop,FO-K5P
+Смарт-часы Apple Watch Series 8,399,10,Носимые устройства,USD,AppleStore,AP-AW8-45
+Фитнес-браслет Xiaomi Band 7,35,55,Носимые устройства,USD,XiaomiKZ,XM-MB7
+Смарт-часы Samsung Galaxy Watch 5,279,6,Носимые устройства,usd,SamsungKZ,SG-GW5-44
+Зарядная станция Anker 4-в-1,49.99,30,Аксессуары,USD,AnkerShop,AN-CHR-4IN1
+Повербанк Xiaomi 20000mAh,29.90,70,Аксессуары,USD,XiaomiKZ,XM-PB-20K
+Кабель USB-C 100W 2м,9.99,300,Аксессуары,,CableKZ,CB-USBC-2M
+ПРОВЕРИТЬ НАЛИЧИЕ,,,,,менеджер Асель,
+Видеокарта RTX 4070 Ti,799.00,3,Компоненты,USD,NvidiaShop,NV-4070TI
+Процессор AMD Ryzen 9 7900X,449,5,Компоненты,USD,AMDShop,AM-R9-7900X
+Оперативная память DDR5 32GB,120.00,20,Компоненты,USD,KingstonKZ,KG-DDR5-32
+Оперативная память DDR5 32GB,120.00,20,Компоненты,USD,KingstonKZ,KG-DDR5-32
+Блок питания Corsair 850W,139,8,Компоненты,USD,CorsairShop,CR-PSU-850
+Корпус Fractal Design Meshify 2,149.00,4,Компоненты,USD,FractalKZ,FR-MSH2-BLK
+Кулер Noctua NH-D15,99,9,Компоненты,USD,NoctuaShop,NT-NHD15
+СЖО Corsair H150i Elite,179.00,3,Компоненты,USD,CorsairShop,CR-H150-RGB
+Ноутбук ASUS ROG Zephyrus G14,1299,2,Электроника,USD,AsusKZ,AS-ROG-G14
+Ноутбук MacBook Pro 14 M2,1999.00,4,Электроника,USD,AppleStore,AP-MBP14-M2
+MacBook Pro 14 M2,1999.00,4,Электроника,usd,AppleStore,AP-MBP14-M2
+Планшет Samsung Galaxy Tab S8,549,5,Планшеты,USD,SamsungKZ,SG-TS8-256
+Электронная книга Kindle Paperwhite,139.99,15,Планшеты,USD,AmazonKZ,AM-KPW-11
+Проектор BenQ TH685P,699,1,Оргтехника,USD,BenQShop,BQ-TH685
+Интерактивная доска SMART Board,,1,Оргтехника,USD,SmartKZ,SM-SBM-75
+ТВ Samsung QLED 55",899.00,2,Телевизоры,USD,SamsungKZ,SG-Q55-4K
+ТВ LG OLED 55",1099,1,Телевизоры,usd,LGDistrib,LG-OL55-C2
+Саундбар Samsung HW-Q800B,349.00,3,Аудио,USD,SamsungKZ,SG-HWQ800
+ТВ-приставка Apple TV 4K,129,8,Телевизоры,USD,AppleStore,AP-ATV4K
+Игровая консоль PS5,499.00,0,Игровые консоли,USD,SonyShop,SN-PS5-STD
+Игровая консоль Xbox Series X,499,0,Игровые консоли,USD,MicrosoftKZ,MS-XSX
+Геймпад DualSense PS5,69.99,25,Аксессуары,USD,SonyShop,SN-DS-WHT
+Игровая гарнитура SteelSeries Arctis 7,149,12,Аудио,USD,SteelKZ,SS-ARC7-BLK
+Руль Logitech G923,349.00,2,Периферия,USD,LogiWorld,LG-G923
+уточнить у поставщика цену,,,Периферия,USD,RazerShop,
+Видеокарта RX 7900 XTX,899,2,Компоненты,USD,AMDShop,AM-RX7900XTX
+Монитор ASUS ProArt 27 4K,649.00,3,Мониторы,USD,AsusKZ,AS-PA279-4K
+Графический планшет Wacom Intuos,199,7,Периферия,USD,WacomKZ,WC-INT-M
+Сетевое хранилище QNAP TS-453D,499.00,1,Накопители,USD,QNAPShop,QN-TS453D
+SSD WD Black SN850X 2TB,129,18,Накопители,USD,WDShop,WD-SN850-2T
+SSD WD Black SN850X 2TB,129,18,Накопители,USD,WDShop,WD-SN850-2T
+Наушники Sennheiser HD 660S,349.00,4,Аудио,USD,SennShop,SN-HD660S
+ЦАП/АЦП Focusrite Scarlett 2i2,159,6,Аудио,USD,FocusKZ,FC-SC2I2
+Микрофон Rode NT-USB+,169.00,5,Аудио,USD,RodeShop,RD-NTUSB
+Камера Sony ZV-E10,599,3,Фото/Видео,USD,SonyShop,SN-ZVE10
+Объектив Sony 50mm f/1.8,248.00,4,Фото/Видео,USD,SonyShop,SN-L50-18
+Штатив Joby GorillaPod 3K,49.99,20,Фото/Видео,USD,JobyShop,JB-GP3K
+Диктофон Sony ICD-UX570,79,10,Аудио,USD,SonyShop,SN-ICD-UX570
+,,,,,TechSupply,
+Внешний SSD Samsung T7 1TB,89.99,30,Накопители,USD,SamsungKZ,SG-T7-1TB
+Зарядное устройство Anker 65W GaN,29.99,85,Аксессуары,usd,AnkerShop,AN-65W-GAN
+Кабель Lightning 2м MFI,14.50,120,Аксессуары,USD,CableKZ,CB-LTG-2M
+Чехол для MacBook 14 кожаный,45,35,Аксессуары,USD,CaseKZ,CS-MBP14-LTH
+Подставка для ноутбука Twelve South,55.00,18,Аксессуары,USD,TwelveSouth,TS-CS-SLV
+Очиститель экранов набор,7.99,200,Аксессуары,USD,CleanKZ,CL-SCR-KIT
+Термопаста Arctic MX-6 4г,8.50,90,Компоненты,USD,ArcticShop,AR-MX6-4G
+Антистатический браслет,3.99,150,Аксессуары,USD,ToolsKZ,TL-AST-WR

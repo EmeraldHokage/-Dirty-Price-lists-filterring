@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CSV Cleaner</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <main class="app-grid">
+        <section class="hero-card">
+          <div class="eyebrow">OpenAI API CSV cleanup</div>
+          <h1>Очистка прайс-листов без ручной рутины</h1>
+          <p class="lead">
+            Загрузи грязный CSV, а приложение нормализует таблицу, определит категории товаров и
+            выделит строки, которые лучше пересмотреть вручную.
+          </p>
+
+          <div class="feature-row">
+            <div class="feature-pill">CSV upload</div>
+            <div class="feature-pill">AI category enrichment</div>
+            <div class="feature-pill">Scrollable preview</div>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div id="dropzone" class="dropzone">
+            <input id="fileInput" type="file" accept=".csv,text/csv" hidden />
+            <div class="dropzone-copy">
+              <strong>Перетащи CSV сюда</strong>
+              <span>или выбери файл вручную</span>
+            </div>
+            <button id="pickFileBtn" class="secondary-btn" type="button">Выбрать файл</button>
+          </div>
+
+          <div class="meta-row">
+            <div>
+              <div class="meta-label">Файл</div>
+              <div id="fileName" class="meta-value">Файл не выбран</div>
+            </div>
+            <div>
+              <div class="meta-label">Статус</div>
+              <div id="statusText" class="meta-value">Ожидание загрузки</div>
+            </div>
+          </div>
+
+          <button id="processBtn" class="primary-btn" type="button" disabled>Очистить файл</button>
+
+          <div id="stats" class="stats-grid"></div>
+
+          <div id="warningBox" class="message warning hidden"></div>
+          <div id="errorBox" class="message error hidden"></div>
+
+          <div class="preview-header">
+            <div>
+              <h2>Предпросмотр</h2>
+              <p id="previewSummary" class="preview-summary">Нет данных</p>
+            </div>
+            <div class="preview-actions">
+              <button id="previewBtn" class="secondary-btn" type="button" disabled>Предпросмотр</button>
+              <button id="downloadBtn" class="primary-btn inline-action" type="button" disabled>
+                Скачать CSV
+              </button>
+            </div>
+          </div>
+
+          <div class="table-wrap">
+            <table id="previewTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div id="previewModal" class="modal hidden" aria-hidden="true">
+      <div class="modal-backdrop" data-modal-close></div>
+      <div class="modal-window" role="dialog" aria-modal="true" aria-labelledby="previewModalTitle">
+        <div class="modal-header">
+          <div>
+            <div class="eyebrow modal-eyebrow">Полный табличный просмотр</div>
+            <h2 id="previewModalTitle">Результат очистки</h2>
+          </div>
+          <button id="closePreviewBtn" class="secondary-btn" type="button">Закрыть</button>
+        </div>
+
+        <div class="modal-meta">
+          <div class="modal-metric">
+            <span>Основная таблица</span>
+            <strong id="previewModalSummary">0 строк</strong>
+          </div>
+          <div class="modal-metric">
+            <span>На проверку</span>
+            <strong id="reviewModalSummary">0 строк</strong>
+          </div>
+        </div>
+
+        <section class="modal-section">
+          <div class="section-head">
+            <h3>Основная таблица</h3>
+            <p>Все очищенные строки в прокручиваемом табличном виде.</p>
+          </div>
+          <div class="table-wrap modal-table-wrap">
+            <table id="modalPreviewTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section id="reviewSection" class="modal-section review-section hidden">
+          <div class="section-head">
+            <h3>Пересмотр</h3>
+            <p>Строки с пустыми или магазин-зависимыми полями.</p>
+          </div>
+          <div class="table-wrap modal-table-wrap">
+            <table id="reviewPreviewTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>
